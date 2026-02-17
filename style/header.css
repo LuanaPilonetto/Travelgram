@@ -28,7 +28,7 @@ max-width: 384px;
 }
 
 #info {
-    list-style: nome;
+    list-style: none;
     display: flex;
     flex-direction: column;
     gap: 16px;
