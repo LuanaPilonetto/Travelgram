@@ -42,6 +42,6 @@ a:houver {
     margin-inline: auto;
 }
 
-.surface-color {
+.bg-surface-color {
     background-color: var(--surface-color);
 }
