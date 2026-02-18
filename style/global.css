@@ -32,7 +32,7 @@ a {
     font-family: var(--font-family);
 }
 
-a:houver {
+a:hover {
     color: var(--brand-color);
 }
 
